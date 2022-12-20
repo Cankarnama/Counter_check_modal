@@ -1,0 +1,96 @@
+.Main_Body{
+    height: 810px;
+    width:1105px;
+    /* background-color: red; */
+    border-radius: 10px ;
+    margin-top: 20px;  
+    margin-right: 20px; 
+    /* margin-left: 30px; */
+    
+     
+}
+.body_1
+{
+background-color: aliceblue;
+height:90px ;
+width: auto;
+border-radius:5px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+
+}
+.Req_input{
+
+margin-left:600px;
+margin: top 70px;
+
+
+}
+
+.body_2 
+{
+background-color: aliceblue;
+height:500px ;
+width: auto;
+border-radius:5px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px
+
+}
+.Textboxes{
+    background-color: aliceblue;
+    height:500px ;
+    width: auto;
+    margin-left: 25px;
+    margin-right: 25px;
+
+     
+}
+a {
+    width:280px;
+    height:50px;
+    background-color: #a19fa0;
+    color: #eee;
+    
+    text-decoration: none;
+    border-radius: 5px;
+    
+    height:50px;
+    margin-top:15px;
+     border-radius:"5px";
+      margin-left:"53px";
+  }
+  
+ 
+
+.body_3
+{
+background-color: aliceblue;
+height: 100px; ;
+width: auto;
+border-radius:5px;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px
+
+}
+.actual__button{
+    
+    margin-right: 20px;
+    background-color: white;
+    /* height: 90px; */
+    /* width: 100px; */
+    border-radius: 12px;
+    text-align: center;
+    padding: 25px 40px ;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;   
+    margin-left: 200px;
+    display: flex;
+}
+.button{
+    padding-top: 10px;
+    
+}
+.TB6{
+    display: flex;
+    flex-wrap:nowrap;
+    flex-direction: row;
+
+}

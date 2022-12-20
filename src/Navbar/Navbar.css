@@ -1,0 +1,62 @@
+
+.Nav{
+    text-align: center;
+    background-color: #2a90e2;
+    width: auto; 
+    min-height: 50px;
+    padding:auto;
+    text-align: left;
+    border-top: 2px solid;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+    opacity: 0.7;
+  
+    
+  
+  }
+  
+  .BottomNav{
+     height: 110px;
+     padding: 12px,120px ;
+     width:auto;
+     background-color:rgb(227, 236, 237);
+     display:grid;
+    place-items: center;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+   
+    
+    
+  
+  }
+  
+  .PbuttonNav{
+    
+    /* margin-left: auto;
+    margin-right: auto; */
+    height: 90px;
+    width:auto;
+    background-color:  rgb(227, 236, 237);
+    
+    /* rgb(227, 236, 237); */
+  }
+  
+  .childBn{
+    background-color:  rgb(227, 236, 237);
+    display:flex;
+    width:auto;
+    height: 17px;
+    margin: auto;
+  }
+  
+  .body__1{
+    height: 90px;
+    width:120px;
+    background-color: rgb(232, 227, 237);
+  
+  }
+  
+  
+
+
